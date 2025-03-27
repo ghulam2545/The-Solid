@@ -1,2 +1,4 @@
 title: The SOLID Principles
 theme: minima
+minima:
+  skin: custom
