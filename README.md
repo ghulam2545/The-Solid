@@ -8,3 +8,6 @@ Here Solid is an acronym for:
 - **L**iskov Substitution Principle
 - **I**nterface Segregation Principle
 - **D**ependency Inversion Principle
+
+
+[click here](pages/single.md)
