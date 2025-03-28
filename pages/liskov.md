@@ -1,9 +1,16 @@
-```go
-package main
+### Liskov Substitution Principle (LSP)
+- **Subtypes should be substitutable for their base types without altering the correctness of the program.**
 
-import "fmt"
+_todo_
 
-func main() {
-    fmt.Printf("Hello, World!")
-}
+```java
+class App {}
 ```
+
+_todo_
+
+```java
+class App {}
+```
+
+[Home](../README.md)

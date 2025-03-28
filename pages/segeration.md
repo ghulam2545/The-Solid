@@ -1,9 +1,16 @@
-```go
-package main
+### Interface Segregation Principle (ISP)
+- **Clients should not be forced to depend upon interfaces that they do not use.**
 
-import "fmt"
+_todo_
 
-func main() {
-    fmt.Printf("Hello, World!")
-}
+```java
+class App {}
 ```
+
+_todo_
+
+```java
+class App {}
+```
+
+[Home](../README.md)
