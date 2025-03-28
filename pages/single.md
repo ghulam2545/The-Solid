@@ -1,9 +1,7 @@
 ### Single Responsibility Principle (SRP)
 - **A class should have only one responsibility, or reason to change.**
 
-<br/>
-This principle states that a class should have only and only one responsibility to work. It cannot do multiple things in the same class. As below, I have considered a banking system service that is trying to process multiple tasks in the same class, and it violates SRP.
-This class is doing too many things, which makes it harder to maintain.
+_This principle states that a class should have only and only one responsibility to work. It cannot do multiple things in the same class. As below, I have considered a banking system service that is trying to process multiple tasks in the same class, and it violates SRP. This class is doing too many things, which makes it harder to maintain._
 
 ```java
 // ************************** BAD CODE ************************** //
@@ -39,8 +37,8 @@ public class Main {
 }
 ```
 
-As the principle states that there should be only responsibility, so now we can separate each task in separate class and good code will look like this.
-Now each class has a single responsibility and adding new features won’t break existing code.
+_As the principle states that there should be only responsibility, so now we can separate each task in separate class and good code will look like this.
+Now each class has a single responsibility and adding new features won’t break existing code._
 
 ```java
 // ************************** GOOD CODE ************************** //
@@ -95,4 +93,4 @@ public class Main {
 }
 ```
 
-[Back to home](../README.md)
+[Home](../README.md)
