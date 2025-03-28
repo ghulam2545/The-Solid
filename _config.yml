@@ -1,4 +1,2 @@
-title: The SOLID Principles
-theme: minima
-author: ""
-description: ""
+minima:
+  skin: custom
